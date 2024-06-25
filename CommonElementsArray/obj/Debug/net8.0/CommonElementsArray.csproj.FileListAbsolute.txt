@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\bin\Debug\net8.0\CommonElementsArray.exe
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\bin\Debug\net8.0\CommonElementsArray.deps.json
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\bin\Debug\net8.0\CommonElementsArray.runtimeconfig.json
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\bin\Debug\net8.0\CommonElementsArray.dll
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\bin\Debug\net8.0\CommonElementsArray.pdb
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\CommonElementsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\CommonElementsArray.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\CommonElementsArray.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\CommonElementsArray.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\CommonElementsArray.dll
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\refint\CommonElementsArray.dll
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\CommonElementsArray.pdb
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\CommonElementsArray.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\CommonElementsArray\CommonElementsArray\obj\Debug\net8.0\ref\CommonElementsArray.dll
